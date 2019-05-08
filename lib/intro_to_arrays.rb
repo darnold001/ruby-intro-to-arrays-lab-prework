@@ -7,6 +7,6 @@ def array_with_two_elements
   plants = ["trees", "shrubs"]
 end
 
-def first_element(place)
-  plants[place]
+def first_element
+  plants[0]
 end
