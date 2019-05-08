@@ -10,3 +10,4 @@ end
 def first_element(array, num)
   array[num]
 end
+first_element(plants,0)
